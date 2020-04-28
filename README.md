@@ -8,4 +8,4 @@ SYSU NJQ
 
 **All projects are based on MATLAB**
 
-**If any question, you can e-mail to xuewh5@mail2.sysu.edu.cn**
+**If you have any question, you can e-mail to xuewh5@mail2.sysu.edu.cn**
