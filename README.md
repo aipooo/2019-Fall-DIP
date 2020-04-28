@@ -6,6 +6,6 @@ SYSU NJQ
 * hw4-图像复原
 * hw5-形态学处理&图像分割
 
-**All projects based on MATLAB**
+**All projects are based on MATLAB**
 
-**If any question, you can mail to xuewh5@mail2.sysu.edu.cn**
+**If any question, you can e-mail to xuewh5@mail2.sysu.edu.cn**
