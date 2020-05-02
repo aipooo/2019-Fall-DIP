@@ -5,6 +5,7 @@ SYSU NJQ
 * hw3-低通滤波&同态滤波
 * hw4-图像复原
 * hw5-形态学处理&图像分割
+* Final Project-基于PCA的人脸识别
 
 **All projects are based on MATLAB**
 
